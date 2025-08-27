@@ -26,3 +26,5 @@ ls                    # Lista arquivos e diretórios
 cd folder1            # Navega entre diretórios
 cat file.txt          # Exibe conteúdo de arquivos
 pwd                   # Mostra diretório atual
+
+<img width="300" height="300" alt="imagem" src="https://github.com/user-attachments/assets/6f6d4255-0669-4b56-8bcb-de20b105395b" />
