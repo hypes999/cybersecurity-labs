@@ -2,15 +2,11 @@
 
 Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos, sistema de arquivos e operadores de shell. 
 
----
-
 ## Objetivo
 - Familiarizar-se com comandos essenciais do Linux.
 - Navegar e interagir com o sistema de arquivos.
 - Praticar operadores de shell e automação.
 - Executar tarefas práticas em um ambiente seguro.
-
----
 
 ## Comandos e Conceitos Práticos
 
