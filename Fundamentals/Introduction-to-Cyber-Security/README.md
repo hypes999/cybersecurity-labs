@@ -71,10 +71,8 @@ _In this room, we've discussed the different subfields (SOC, Threat Intelligence
   </tr>
 </table>
 
-- Análise de logs e identificação de ameaças.
-
 ## Comandos / Ferramentas
-- Ferramentas básicas utilizadas podem incluir: navegadores para testes web, SIEM simulators, e utilitários de análise de logs.
+- Ferramentas básicas utilizadas inclui: browsers para testes web, SIEM simulators.
 
 ## Conhecimento adquirido
 - Diferença entre **offensive** e **defensive** security.
