@@ -1,14 +1,22 @@
 # Linux Fundamentals Part 1
 
-Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos, sistema de arquivos e operadores de shell. 
+Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos, sistema de arquivos e operadores de shell.
 
-## Objetivo
+
+## Objetivos
 - Familiarizar-se com comandos essenciais do Linux.
 - Navegar e interagir com o sistema de arquivos.
 - Praticar operadores de shell e automação.
 - Executar tarefas práticas em um ambiente seguro.
 
-## Comandos e Conceitos Práticos
+## Passo a passo
+1. Reconhecimento do ambiente: diretórios, arquivos e usuários.
+2. Execução de comandos básicos: `echo`, `whoami`, `ls`, `cd`, `cat`, `pwd`.
+3. Navegação pelo sistema de arquivos e localização de arquivos importantes.
+4. Busca e filtragem de informações com `find`, `grep`, `wc`.
+5. Uso de operadores de shell para automação.
+
+## Comandos e scripts
 
 ### Comandos básicos
 ```bash
