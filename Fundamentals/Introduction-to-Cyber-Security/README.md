@@ -1,14 +1,25 @@
 # Introduction to Cyber Security
 
-Este módulo cobre os fundamentos de **offensive e defensive security**, além de explorar carreiras na cibersegurança.
+## Objetivo
+Este módulo fornece uma visão geral sobre cibersegurança, incluindo conceitos de **offensive e defensive security**, e explora carreiras na área.
 
-## Estrutura do Módulo
+## Conceitos Chave
+- **Offensive Security:** Exploração de vulnerabilidades em ambientes seguros para fins educativos (ethical hacking).
+- **Defensive Security:** Proteção de sistemas contra ataques, incluindo Threat Intelligence, SOC, DFIR, Malware Analysis, SIEM.
+- **Carreiras em Cyber Security:** Ethical hacker, SOC analyst, Forensic analyst, Malware researcher, entre outros.
 
-- [Offensive Security](Offensive-Security/README.md)
-  Hack de aplicações em ambiente seguro e conceitos de ethical hacking.
+## Atividades Práticas
+- Hack de uma aplicação vulnerável online (ambiente seguro) para experimentar tarefas de um ethical hacker.
+- Simulação de defesa de um sistema contra um ataque cibernético.
+- Análise de logs e identificação de ameaças.
 
-- [Defensive Security](Defensive-Security/README.md)
-  Proteção de sistemas, Threat Intelligence, SOC, DFIR, Malware Analysis, SIEM.
+## Comandos / Ferramentas
+- Ferramentas básicas utilizadas podem incluir: navegadores para testes web, SIEM simulators, e utilitários de análise de logs.
 
-- [Careers in Cyber](Careers-in-Cyber/README.md)
-  Exploração de carreiras, skills necessárias e oportunidades na área.
+## Aprendizados
+- Diferença entre **offensive** e **defensive** security.
+- Importância de ambientes legais e controlados para prática de hacking.
+- Introdução às principais carreiras e responsabilidades na cibersegurança.
+
+## Imagens / Diagramas
+Adiciona prints das interfaces de TryHackMe ou diagramas explicativos (sem conteúdo protegido).
