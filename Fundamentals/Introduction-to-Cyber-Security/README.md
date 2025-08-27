@@ -46,11 +46,13 @@ _Your mission is to transfer $2000 from bank account 2276 to your account (accou
 
 _Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)_
 
-<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/ab35ebc8-e3c5-42d1-a059-b711c5a2132c" />
-
-<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2e0331cb-67e6-457d-a558-92cc966458cb" />
-
-<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/8d515411-ce1f-425e-b171-7ad081c4a7eb" />
+<table>
+  <tr>
+    <td><img width="400" height="400" alt="imagem1" src="https://github.com/user-attachments/assets/ab35ebc8-e3c5-42d1-a059-b711c5a2132c" /></td>
+    <td><img width="400" height="400" alt="imagem2" src="https://github.com/user-attachments/assets/2e0331cb-67e6-457d-a558-92cc966458cb" /></td>
+    <td><img width="400" height="400" alt="imagem3" src="https://github.com/user-attachments/assets/8d515411-ce1f-425e-b171-7ad081c4a7eb" /></td>
+  </tr>
+</table>
 
 - Simulação de defesa de um sistema contra um ataque cibernético.
 - Análise de logs e identificação de ameaças.
