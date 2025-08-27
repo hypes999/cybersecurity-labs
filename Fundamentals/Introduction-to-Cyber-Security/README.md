@@ -36,8 +36,21 @@ _In the command above, -u is used to state the website we're scanning, -w takes 
 
 _You will see that Gobuster scans the website with each word in the list, finding pages that exist on the site. Gobuster will have told you the pages in the list of page/directory names (indicated by Status: 200)._
 
+_Step 3. Hack The Bank_
 
+_You should have found a secret bank transfer page that allows you to transfer money between bank accounts (/bank-transfer). Type the hidden page into the FakeBank website using the browser's address bar._
 
+_From this page, an attacker has authorized access and can steal money from any bank account. As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix them before a hacker exploits them._
+
+_Your mission is to transfer $2000 from bank account 2276 to your account (account number 8881). If your transfer was successful, you should now be able to see your new balance reflected on your account page._
+
+_Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)_
+
+<img width="778" height="725" alt="imagem" src="https://github.com/user-attachments/assets/ab35ebc8-e3c5-42d1-a059-b711c5a2132c" />
+
+<img width="662" height="618" alt="imagem" src="https://github.com/user-attachments/assets/2e0331cb-67e6-457d-a558-92cc966458cb" />
+
+<img width="698" height="565" alt="imagem" src="https://github.com/user-attachments/assets/8d515411-ce1f-425e-b171-7ad081c4a7eb" />
 
 - Simulação de defesa de um sistema contra um ataque cibernético.
 - Análise de logs e identificação de ameaças.
