@@ -20,6 +20,21 @@ _A terminal, also known as the command line, allows us to interact with a comput
 
 <img width="769" height="379" alt="imagem" src="https://github.com/user-attachments/assets/41878d18-8bac-4f56-919e-6b299354080a" />
 
+_Step 2. Use Gobuster To Find Hidden Website Pages_
+
+_Most companies have an admin portal page, giving their staff access to basic admin controls for day-to-day operations. For a bank, an employee might need to transfer money to and from client accounts. Due to human error or negligence, there may be instances when these pages are not made private, allowing attackers to find hidden pages that show or give access to admin controls or sensitive data._
+
+_To begin, type the following command into the terminal to find potentially hidden pages on FakeBank's website using Gobuster (a command-line security application)._
+
+_**gobuster -u http://fakebank.thm -w wordlist.txt dir**_
+
+_The command will run and show you an output similar to this:_
+
+<img width="731" height="596" alt="imagem" src="https://github.com/user-attachments/assets/2947765d-3495-4563-9430-3eaad6f44da9" />
+
+_In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages._
+
+_You will see that Gobuster scans the website with each word in the list, finding pages that exist on the site. Gobuster will have told you the pages in the list of page/directory names (indicated by Status: 200)._
 
 
 
