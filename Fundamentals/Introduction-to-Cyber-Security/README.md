@@ -16,7 +16,7 @@ Este módulo fornece uma visão geral sobre cibersegurança, incluindo conceitos
 ## Comandos / Ferramentas
 - Ferramentas básicas utilizadas podem incluir: navegadores para testes web, SIEM simulators, e utilitários de análise de logs.
 
-## Aprendizados
+## Conhecimento adquirido
 - Diferença entre **offensive** e **defensive** security.
 - Importância de ambientes legais e controlados para prática de hacking.
 - Introdução às principais carreiras e responsabilidades na cibersegurança.
