@@ -12,9 +12,6 @@ Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos
 ## Passo a passo
 1. Reconhecimento do ambiente: diretórios, arquivos e usuários.
 2. Execução de comandos básicos: `echo`, `whoami`, `ls`, `cd`, `cat`, `pwd`.
-3. Navegação pelo sistema de arquivos e localização de arquivos importantes.
-4. Busca e filtragem de informações com `find`, `grep`, `wc`.
-5. Uso de operadores de shell para automação.
 
 ## Comandos e scripts
 
