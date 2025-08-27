@@ -20,6 +20,3 @@ Este módulo fornece uma visão geral sobre cibersegurança, incluindo conceitos
 - Diferença entre **offensive** e **defensive** security.
 - Importância de ambientes legais e controlados para prática de hacking.
 - Introdução às principais carreiras e responsabilidades na cibersegurança.
-
-## Imagens / Diagramas
-Adiciona prints das interfaces de TryHackMe ou diagramas explicativos (sem conteúdo protegido).
