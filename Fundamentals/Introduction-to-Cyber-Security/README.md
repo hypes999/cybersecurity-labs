@@ -18,7 +18,7 @@ _Step 1. Open A Terminal_
 
 _A terminal, also known as the command line, allows us to interact with a computer without using a graphical user interface. On the machine, open the terminal by clicking on the Terminal icon on the right of the screen._
 
-<img width="769" height="379" alt="imagem" src="https://github.com/user-attachments/assets/41878d18-8bac-4f56-919e-6b299354080a" />
+<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/41878d18-8bac-4f56-919e-6b299354080a" />
 
 _Step 2. Use Gobuster To Find Hidden Website Pages_
 
