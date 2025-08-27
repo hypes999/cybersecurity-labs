@@ -54,7 +54,23 @@ _Go there now and confirm you got the money! (You may need to hit Refresh for th
   </tr>
 </table>
 
-- Simulação de defesa de um sistema contra um ataque cibernético.
+### Simulação de defesa de um sistema contra um ataque cibernético.
+
+_In this room, we've discussed the different subfields (SOC, Threat Intelligence, Malware Analysis, and DFIR) and experienced firsthand how to deal with alerts in a simulated SIEM environment. While we've covered a lot, the depth and complexity of this field mean there's more to learn and explore. The lessons learned here will serve as your foundation as cyber threats evolve, demanding continuous learning, vigilance, and adaptation._
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/78a41d58-0a17-42af-81e4-d17e86d14b56" height="250" alt="imagem1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dcd95165-0784-4576-ad18-b9ce1fd44972" height="250" alt="imagem2"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c22e66de-3de2-4a72-8251-04a2723e27df" height="250" alt="imagem3"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/498694a2-095a-42b6-a0e0-ff4379133ed9" height="250" alt="imagem4"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8399a69f-1436-4958-9547-d0c676720e03" height="250" alt="imagem5"/></td>
+    <td><img src="https://github.com/user-attachments/assets/01fa4f0e-47b4-4b50-a5b7-ace9d57cac16" height="250" alt="imagem6"/></td>
+  </tr>
+</table>
+
 - Análise de logs e identificação de ameaças.
 
 ## Comandos / Ferramentas
