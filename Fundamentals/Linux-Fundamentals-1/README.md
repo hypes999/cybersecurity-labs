@@ -10,7 +10,7 @@ Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos
 - Executar tarefas práticas em um ambiente seguro.
 
 ## Passo a passo
-1. Reconhecimento do ambiente: diretórios, arquivos e usuários.
+1. Reconhecimento do ambiente: diretórios, arquivos e utilizadores.
 2. Execução de comandos básicos: `echo`, `whoami`, `ls`, `cd`, `cat`, `pwd`.
 
 ## Comandos e scripts
@@ -18,7 +18,7 @@ Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos
 ### Comandos básicos
 ```bash
 echo "TryHackMe"      # Exibe texto
-whoami                # Mostra o usuário atual
+whoami                # Mostra o utilizador atual
 ls                    # Lista arquivos e diretórios
 cd folder1            # Navega entre diretórios
 cat file.txt          # Exibe conteúdo de arquivos
