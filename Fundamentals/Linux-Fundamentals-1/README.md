@@ -19,7 +19,6 @@ Este módulo cobre os conceitos essenciais de Linux, incluindo comandos básicos
 ## Comandos e scripts
 
 ### Comandos básicos
-```bash
 echo "TryHackMe"      # Exibe texto
 whoami                # Mostra o usuário atual
 ls                    # Lista arquivos e diretórios
