@@ -12,7 +12,7 @@ Este módulo fornece uma visão geral sobre cibersegurança, incluindo conceitos
 
 ### Hack de uma aplicação vulnerável online (ambiente seguro) para experimentar tarefas de um ethical hacker.
 
-*""We will use a command-line application called "Gobuster" to brute-force FakeBank's website to find hidden directories and pages. Gobuster will take a list of potential page or directory names and try accessing a website with each of them; if the page exists, it tells you.
+*We will use a command-line application called "Gobuster" to brute-force FakeBank's website to find hidden directories and pages. Gobuster will take a list of potential page or directory names and try accessing a website with each of them; if the page exists, it tells you.
 
 Step 1. Open A Terminal
 
