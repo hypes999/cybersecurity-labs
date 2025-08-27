@@ -30,7 +30,7 @@ _**gobuster -u http://fakebank.thm -w wordlist.txt dir**_
 
 _The command will run and show you an output similar to this:_
 
-<img width="731" height="596" alt="imagem" src="https://github.com/user-attachments/assets/2947765d-3495-4563-9430-3eaad6f44da9" />
+<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2947765d-3495-4563-9430-3eaad6f44da9" />
 
 _In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages._
 
@@ -46,11 +46,11 @@ _Your mission is to transfer $2000 from bank account 2276 to your account (accou
 
 _Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)_
 
-<img width="778" height="725" alt="imagem" src="https://github.com/user-attachments/assets/ab35ebc8-e3c5-42d1-a059-b711c5a2132c" />
+<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/ab35ebc8-e3c5-42d1-a059-b711c5a2132c" />
 
-<img width="662" height="618" alt="imagem" src="https://github.com/user-attachments/assets/2e0331cb-67e6-457d-a558-92cc966458cb" />
+<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/2e0331cb-67e6-457d-a558-92cc966458cb" />
 
-<img width="698" height="565" alt="imagem" src="https://github.com/user-attachments/assets/8d515411-ce1f-425e-b171-7ad081c4a7eb" />
+<img width="400" height="400" alt="imagem" src="https://github.com/user-attachments/assets/8d515411-ce1f-425e-b171-7ad081c4a7eb" />
 
 - Simulação de defesa de um sistema contra um ataque cibernético.
 - Análise de logs e identificação de ameaças.
