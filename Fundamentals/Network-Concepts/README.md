@@ -1,4 +1,4 @@
-# Networking Concepts — Cyber Security 101 (THM)
+# Networking Concepts
 
 Este módulo introduz os fundamentos de networking, incluindo os modelos OSI e TCP/IP, endereçamento IP, protocolos de transporte e encapsulação de pacotes. 
 
