@@ -24,6 +24,7 @@ Este módulo explora conceitos fundamentais do sistema Windows, incluindo a inte
 ```powershell
 # Abrir o gestor de utilizadores
 lusrmgr.msc
+```
 
 # Não há outros comandos específicos documentados no walkthrough; a navegação foi feita via GUI e inspeção visual.
 
