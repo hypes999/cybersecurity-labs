@@ -13,5 +13,5 @@ Esta pasta contém todos os módulos de fundamentos de cibersegurança que explo
 - [Windows Fundamentals 1](Windows-Fundamentals-1/README.md)  
   Conceitos essenciais de Windows, administração, PowerShell e permissões.
 
-- [Network Fundamentals](Networking/README.md)  
+- [Network Concepts](Network-Concepts/README.md)  
   Conceitos de TCP/IP, subnets, protocolos e topologias de rede.
