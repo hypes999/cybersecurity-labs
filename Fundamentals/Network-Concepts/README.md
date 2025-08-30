@@ -100,6 +100,13 @@ O modelo TCP/IP é uma versão simplificada do modelo OSI, com 4 camadas:
 
 ## Imagens / Diagramas
 
-<img width="570" height="114" alt="imagem" src="https://github.com/user-attachments/assets/06595691-974c-4a3c-ad6e-9dfd3e26eb84" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06595691-974c-4a3c-ad6e-9dfd3e26eb84" width="400" />
+  <img src="https://github.com/user-attachments/assets/1ba7bb52-8937-450d-a3ea-d7ae0ac6b2db" width="400" />
+</p>
 
-<img width="530" height="189" alt="imagem" src="https://github.com/user-attachments/assets/1ba7bb52-8937-450d-a3ea-d7ae0ac6b2db" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8a56bb0-1f25-4cf5-853c-75c1c3cb2bc0" width="400" />
+  <img src="https://github.com/user-attachments/assets/d6edd770-6919-4d93-bdc2-850081d18143" width="400" />
+</p>
+
