@@ -22,10 +22,10 @@ Este módulo introduz os fundamentos de networking, incluindo os modelos OSI e T
 
 ```bash
 # Ver configuração de rede (Linux)
-ifconfig          # ou ip address show
+ifconfig      # ou ip a
 
 # (Windows)
-ipconfig
+ipconfig  # para mais detalhes ipconfig /all
 
 # Conectar via telnet a porta TCP (se existir alvo)
 telnet TARGET_IP PORT
