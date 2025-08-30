@@ -62,7 +62,3 @@ lusrmgr.msc
 
 ### Task Manager
 - Atalho de teclado: **Ctrl + Shift + Esc**.
-
-### Imagens
-
-
