@@ -100,7 +100,6 @@ O modelo TCP/IP é uma versão simplificada do modelo OSI, com 4 camadas:
 
 ## Imagens / Diagramas
 
-Para ilustrar o fluxo de pacotes e o modelo de camadas, seria interessante incluir diagramas. Podemos gerar diagramas explicativos usando ferramentas externas.
+<img width="570" height="114" alt="imagem" src="https://github.com/user-attachments/assets/06595691-974c-4a3c-ad6e-9dfd3e26eb84" />
 
-Se precisar de algum diagrama ou imagem, posso ajudar a gerar com uma descrição específica.
-
+<img width="530" height="189" alt="imagem" src="https://github.com/user-attachments/assets/1ba7bb52-8937-450d-a3ea-d7ae0ac6b2db" />
