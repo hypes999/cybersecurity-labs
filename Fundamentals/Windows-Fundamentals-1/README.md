@@ -1,8 +1,6 @@
 # Windows Fundamentals Part I
 
-Este módulo explora conceitos fundamentais do sistema Windows, incluindo a interface gráfica, sistema de ficheiros, contas de usuário, controlo de contas (UAC), Painel de Controlo e Gestor de Tarefas. Baseado no walkthrough de Hammaad Mughal: [Walkthrough Completo](https://medium.com/@hammaadm/tryhackme-windows-fundamentals-part-i-39c5d7f0b758) :contentReference[oaicite:0]{index=0}
-
----
+Este módulo explora conceitos fundamentais do sistema Windows, incluindo a interface gráfica, sistema de ficheiros, contas de usuário, controlo de contas (UAC), Painel de Controlo e Gestor de Tarefas.
 
 ## Objetivos
 - Compreender funcionalidades distintas das edições Windows Home vs Pro (como BitLocker).
@@ -10,8 +8,6 @@ Este módulo explora conceitos fundamentais do sistema Windows, incluindo a inte
 - Identificar variáveis de ambiente importantes (`%windir%`).
 - Gerir contas de utilizador, permissões e UAC.
 - Navegar no Painel de Controlo e usar Gestor de Tarefas.
-
----
 
 ## Passo a passo
 1. Identificar recursos exclusivos do Windows Pro, como o **BitLocker**.
@@ -22,8 +18,6 @@ Este módulo explora conceitos fundamentais do sistema Windows, incluindo a inte
 6. Entender o controlo de contas (UAC) e quando é necessário.
 7. Alternar para visualização de ícones pequenos no Painel de Controlo e identificar a última entrada (Windows Defender Firewall).
 8. Aprender o atalho de teclado para abrir o Task Manager (Ctrl + Shift + Esc).
-
----
 
 ## Comandos e Ferramentas
 
