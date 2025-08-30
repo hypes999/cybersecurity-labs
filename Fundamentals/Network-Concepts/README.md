@@ -47,7 +47,7 @@ O modelo OSI é composto por 7 camadas, cada uma com funções específicas:
 
 O modelo TCP/IP é uma versão simplificada do modelo OSI, com 4 camadas:
 
-1. **Camada Link**: Combina a camada física e a camada de enlace de dados do modelo OSI. Cuida da transmissão de dados através de um meio físico.
+1. **Camada Física**: Combina a camada física e a camada de enlace de dados do modelo OSI. Cuida da transmissão de dados através de um meio físico.
 2. **Camada Internet**: Equivalente à camada de rede do modelo OSI, ela lida com roteamento e endereçamento de pacotes (exemplo: IP).
 3. **Camada de Transporte**: Responsável pelo controle de fluxo e entrega dos pacotes de dados. A comunicação pode ser via TCP ou UDP.
 4. **Camada de Aplicação**: Lida com os protocolos de comunicação entre os aplicativos, como HTTP, FTP, etc.
