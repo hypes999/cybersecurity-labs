@@ -10,9 +10,9 @@ Este repositório documenta minha jornada em cibersegurança, desde fundamentos 
 Conceitos essenciais de Linux, Windows, Networking e Web.
 
 - [Introduction to Cyber Security](Fundamentals/Introduction-to-Cyber-Security/README.md)
-- [Linux Fundamentals Part 1–3](Fundamentals/Linux-Fundamentals/README.md)
-- [Windows Fundamentals Part 1–3](Fundamentals/Windows-Fundamentals/README.md)
-- [Network Fundamentals / Networking Concepts](Fundamentals/Network-Fundamentals/README.md)
+- [Linux Fundamentals Part 1](Fundamentals/Linux-Fundamentals-1/README.md)
+- [Windows Fundamentals Part 1](Fundamentals/Windows-Fundamentals-1/README.md)
+- [Network Fundamentals / Networking Concepts](Fundamentals/Network-Concepts/README.md)
 - [Web Fundamentals](Fundamentals/Web-Fundamentals/README.md)
 - [OWASP Top 10](Fundamentals/OWASP-Top-10/README.md)
 
