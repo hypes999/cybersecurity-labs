@@ -26,20 +26,18 @@ Este módulo explora conceitos fundamentais do sistema Windows, incluindo a inte
 lusrmgr.msc
 ```
 
-# Não há outros comandos específicos documentados no walkthrough; a navegação foi feita via GUI e inspeção visual.
+## Conhecimento sobre o Sistema
 
-# Conhecimento sobre o Sistema
-
-## BitLocker
+### BitLocker
 - Recurso exclusivo da edição Pro para encriptação de disco.
 
-## Interface Desktop
+### Interface Desktop
 - Opções para esconder:
   - A barra de pesquisa.
   - O botão Task View.
 - Ícone adicional no centro de notificações: **Action Center**.
 
-## NTFS
+### NTFS
 - Sistema de ficheiros moderno com suporte a:
   - Ficheiros grandes.
   - Permissões.
@@ -47,24 +45,24 @@ lusrmgr.msc
   - Encriptação.
   - Data Streams alternativos (ADS).
 
-## Variáveis
+### Variáveis
 - **%windir%**: Refere-se à pasta Windows (normalmente `C:\Windows`).
 
-## Contas de Usuário
+### Contas de Utilizador
 - **Nome da outra conta**: tryhackmebilly
 - **Grupos**: Remote Desktop Users e Users
 - **Conta integrada para convidados**: Guest
 - **Descrição da conta**: window$Fun1!
 
-## UAC (User Account Control)
+### UAC (User Account Control)
 - Mecanismo de proteção para execução com privilégios elevados.
 
-## Painel de Controlo
+### Painel de Controlo
 - Com visualização em ícones pequenos, a última opção é o **Windows Defender Firewall**.
 
-## Task Manager
+### Task Manager
 - Atalho de teclado: **Ctrl + Shift + Esc**.
 
-## Imagens / Screenshots
+### Imagens
 
 
