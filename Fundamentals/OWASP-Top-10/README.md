@@ -54,7 +54,7 @@ $(cat /etc/passwd)
 
 # Usar Burp Suite / Intruder para fuzz de parametros
 # Usar ferramenta de cracking de hash externo se aplicável  
-´´´
+```
 
 ## Conhecimento / Aprendizados
 
