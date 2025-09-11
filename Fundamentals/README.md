@@ -17,4 +17,4 @@ Esta pasta contém todos os módulos de fundamentos de cibersegurança que explo
   Conceitos de TCP/IP, subnets, protocolos e topologias de rede.
 
 - [OWASP Top 10](Fundamentals/OWASP-Top-10/README.md)
-  Conceitos sobre as Top 10 vulnerabilidades da web.  
+  Conceitos sobre as Top 10 vulnerabilidades da web.
