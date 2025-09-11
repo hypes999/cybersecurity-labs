@@ -54,3 +54,16 @@ $(cat /etc/passwd)
 
 # Usar Burp Suite / Intruder para fuzz de parametros
 # Usar ferramenta de cracking de hash externo se aplicável  
+´´´
+
+## Conhecimento / Aprendizados
+
+Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
+
+Ferramentas úteis no pentesting web: Burp, SQLite, navegadores com DevTools.
+
+A importância de validar input, manter software atualizado, utilizar HTTPS, lidar com sessões/cookies de forma segura.
+
+Boas práticas de mitigação: validação de input, least privilege, logging, monitorização, tratamento de erros seguro.
+
+Importância de práticas defensivas mesmo quando se foca no ofensivo — entender como mitigar torna-se diferencial.
