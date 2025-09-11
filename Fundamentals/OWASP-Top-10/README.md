@@ -27,7 +27,7 @@ Este módulo apresenta as top 10 vulnerabilidades de aplicações web segundo o 
 4. Capturar evidências (screenshots / registros de comando).  
 5. Documentar cada falha com: o que fizeste, que comandos ou payloads usaste, e o que aprendeste e como prevenir.
 
-## Comandos e scripts usados (exemplos)
+## Comandos e scripts usados
 
 ```bash
 # Exemplos de exploração de vulnerabilidades
