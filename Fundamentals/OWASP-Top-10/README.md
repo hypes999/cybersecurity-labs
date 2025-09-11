@@ -56,6 +56,15 @@ $(cat /etc/passwd)
 # Usar ferramenta de cracking de hash externo se aplicável  
 ```
 
+## Imagens
+<img width="718" height="264" alt="imagem" src="https://github.com/user-attachments/assets/c3a15b22-2a41-4684-9ec6-a26c1e4efe16" />
+<img width="713" height="246" alt="imagem" src="https://github.com/user-attachments/assets/fb0601db-5b81-475f-a3a3-1f66fffc3ba8" />
+<img width="710" height="511" alt="imagem" src="https://github.com/user-attachments/assets/8dee56ed-24b5-4df2-8275-1b76a9b48123" />
+<img width="738" height="281" alt="imagem" src="https://github.com/user-attachments/assets/dbeedbb6-ca82-4a36-be62-45b3453e5b9b" />
+<img width="289" height="887" alt="imagem" src="https://github.com/user-attachments/assets/3e0e431d-38a0-4dd7-84a5-943fa07c39ec" />
+
+
+
 ## Conhecimento / Aprendizados
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
