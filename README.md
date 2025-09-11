@@ -13,7 +13,6 @@ Conceitos essenciais de Linux, Windows, Networking e Web.
 - [Linux Fundamentals Part 1](Fundamentals/Linux-Fundamentals-1/README.md)
 - [Windows Fundamentals Part 1](Fundamentals/Windows-Fundamentals-1/README.md)
 - [Network Fundamentals / Networking Concepts](Fundamentals/Network-Concepts/README.md)
-- [Web Fundamentals](Fundamentals/Web-Fundamentals/README.md)
 - [OWASP Top 10](Fundamentals/OWASP-Top-10/README.md)
 
 ### 2. [Tools](Tools/README.md)
