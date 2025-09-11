@@ -117,7 +117,7 @@ $(cat /etc/passwd)
 </p>
 
 
-## Conhecimento / Aprendizados
+## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
 
