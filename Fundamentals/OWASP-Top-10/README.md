@@ -57,12 +57,64 @@ $(cat /etc/passwd)
 ```
 
 ## Imagens
-<img width="718" height="264" alt="imagem" src="https://github.com/user-attachments/assets/c3a15b22-2a41-4684-9ec6-a26c1e4efe16" />
-<img width="713" height="246" alt="imagem" src="https://github.com/user-attachments/assets/fb0601db-5b81-475f-a3a3-1f66fffc3ba8" />
-<img width="710" height="511" alt="imagem" src="https://github.com/user-attachments/assets/8dee56ed-24b5-4df2-8275-1b76a9b48123" />
-<img width="738" height="281" alt="imagem" src="https://github.com/user-attachments/assets/dbeedbb6-ca82-4a36-be62-45b3453e5b9b" />
-<img width="289" height="887" alt="imagem" src="https://github.com/user-attachments/assets/3e0e431d-38a0-4dd7-84a5-943fa07c39ec" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3a15b22-2a41-4684-9ec6-a26c1e4efe16" width="600"/>
+  <img src="https://github.com/user-attachments/assets/fb0601db-5b81-475f-a3a3-1f66fffc3ba8" width="600"/>
+  <img src="https://github.com/user-attachments/assets/8dee56ed-24b5-4df2-8275-1b76a9b48123" width="600"/>
+  <img src="https://github.com/user-attachments/assets/dbeedbb6-ca82-4a36-be62-45b3453e5b9b" width="600"/>
+  <img src="https://github.com/user-attachments/assets/3e0e431d-38a0-4dd7-84a5-943fa07c39ec" width="600"/>
+</p>
+
+---
+
+### 5.1 What strange text file is in the website root directory?  
+**Answer:** `drpepper.txt`  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec433642-a85b-42e2-bced-874781f0fd22" width="600"/>
+</p>
+
+---
+
+### 5.2 How many non-root/non-service/non-daemon users are there?  
+**Answer:** `0`  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47939d55-ee00-4b30-a245-697b2c69e57e" width="600"/>
+</p>
+
+---
+
+### 5.3 What user is this app running as?  
+**Answer:** `www-data`  
+
+---
+
+### 5.4 What is the user's shell set as?  
+**Answer:** `/usr/sbin/nologin`  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e9c0cf5-8179-429b-bbe5-55cdb7c404af" width="600"/>
+</p>
+
+---
+
+### 5.5 What version of Ubuntu is running?  
+**Answer:** `18.04.4`  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/034855c2-7fdf-4722-b8cc-1dfaf10c71cd" width="600"/>
+</p>
+
+---
+
+### 5.6 Print out the MOTD. What favorite beverage is shown?  
+**Answer:** `DR PEPPER`  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/535e43af-700e-463f-bea5-2fc91d34834e" width="600"/>
+</p>
 
 
 ## Conhecimento / Aprendizados
