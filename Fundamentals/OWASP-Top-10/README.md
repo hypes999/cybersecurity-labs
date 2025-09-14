@@ -116,7 +116,72 @@ $(cat /etc/passwd)
   <img src="https://github.com/user-attachments/assets/535e43af-700e-463f-bea5-2fc91d34834e" width="600"/>
 </p>
 
+## 7. Flags (user accounts)
 
+### 7.1 What is the flag that you found in darren's account?  
+**Answer:** `fe86079416a21a3c99937fea8874b667`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00a13d4b-5999-4de6-8468-8f94d650b4bd" width="800" alt="flag darren"/>
+</p>
+
+---
+
+### 7.3 What is the flag that you found in arthur's account?  
+**Answer:** `d9ac0f7db4fda460ac3edeb75d75e16e`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1655a312-f371-4c76-bc70-1893312097fe" width="800" alt="flag arthur"/>
+</p>
+
+---
+
+## 11. Sensitive files & admin access
+
+### 11.1 What is the name of the mentioned directory?  
+**Answer:** `/assets`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/174926bc-9b4e-487e-89b1-cb122deb0485" width="800" alt="/assets listing 1"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/21651ae7-6b8a-48e1-ae30-2626a64464ec" width="800" alt="/assets listing 2"/>
+</p>
+
+---
+
+### 11.2 Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?  
+**Answer:** `webapp.db`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a99396bd-799d-4d3a-a0d9-64cf52ea30cd" width="800" alt="webapp.db"/>
+</p>
+
+---
+
+### 11.3 Use the supporting material to access the sensitive data. What is the password hash of the admin user?  
+**Answer:** `6eea9b7ef19179a06954edd0f6c05ceb`
+
+*(hash extracted from webapp.db — document the exact SQL query you used in the lab notes)*
+
+---
+
+### 11.4 Crack the hash. What is the admin's plaintext password?  
+**Answer:** `qwertyuiop`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfc4f68f-1644-487f-951d-c3a59cc14760" width="800" alt="hash cracked"/>
+</p>
+
+---
+
+### 11.5 Login as the admin. What is the flag?  
+**Answer:** `THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8a9a481-a05b-496b-9ff7-d59c1db84486" width="800" alt="admin flag"/>
+</p>
+
+---
 ## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
