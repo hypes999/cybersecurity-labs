@@ -1,6 +1,6 @@
 # CyberSecurity Labs
 
-Este repositório documenta minha jornada em cibersegurança, desde fundamentos até pentesting e blue team.
+Este repositório documenta minha jornada em cibersegurança, desde fundamentos até pentesting e blue team no TryHackMe
 
 ---
 
