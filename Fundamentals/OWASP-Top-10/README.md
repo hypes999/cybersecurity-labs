@@ -220,7 +220,6 @@ $(cat /etc/passwd)
    <img width="1009" height="540" alt="imagem" src="https://github.com/user-attachments/assets/22b7ff19-934a-424b-bba1-f824a11eae63" />
 </p>
 
-
 ### 20.3 On the same reflective page, craft a reflected XSS payload that will cause a popup with your machines IP address.
 **Answer:** `ReflectiveXss4TheWin`
 <p align="center">   
@@ -243,8 +242,38 @@ $(cat /etc/passwd)
    <img width="449" height="217" alt="imagem" src="https://github.com/user-attachments/assets/75794969-bbc4-44a3-ad6e-91d8c9dcc067" />
    <img width="1318" height="570" alt="imagem" src="https://github.com/user-attachments/assets/7b4c7c8c-d191-4146-bb04-0da4842f5002" />
 </p>
+
 ---
 
+### 21.1 Who developed the Tomcat application? 
+**Answer:** The Apache Software Foundation
+
+### 21.2 What type of attack that crashes services can be performed with insecure deserialization?
+**Answer:** Denial of Service
+
+---
+
+### 22.1 Select the correct term of the following statement: 
+if a dog was sleeping, would this be:
+A) A State
+B) A Behaviour
+
+**Answer:** A Behaviour 
+
+---
+
+### 23.1 What is the name of the base-2 formatting that data is sent across a network as?
+**Answer:** binary
+
+---
+
+### 24.1 If a cookie had the path of webapp.com/login , what would the URL that the user has to visit be?
+**Answer:** webapp.com/login
+
+### 24.2 What is the acronym for the web technology that Secure cookies work over?
+**Answer:** HTTPS
+
+---
 
 ## Conhecimento 
 
