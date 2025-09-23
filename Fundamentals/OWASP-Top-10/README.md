@@ -300,6 +300,13 @@ B) A Behaviour
 
 ---
 
+### 30.1 What IP address is the attacker using?
+**Answer:** 49.99.13.16
+
+### 30.2 What kind of attack is being carried out? 
+**Answer:** Brute Force
+
+---
 ## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
