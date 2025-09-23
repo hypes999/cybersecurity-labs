@@ -196,6 +196,47 @@ $(cat /etc/passwd)
 
 ---
 
+### 19.1 Deploy the VM
+<p align="center">
+   <img width="1636" height="328" alt="imagem" src="https://github.com/user-attachments/assets/e9aa4c7c-48c5-41da-adc2-d1a8782810d3" />
+</p>
+
+### 19.2 Hack into the webapp, and find the flag!
+**Answer:** `thm{4b9513968fd564a87b28aa1f9d672e17}`
+<p align="center">   
+   <img width="1498" height="481" alt="imagem" src="https://github.com/user-attachments/assets/69cb69cc-904b-4246-ba0f-5b4fdb7151de" />
+</p>
+
+---
+
+### 20.1 Deploy the VM
+<p align="center">   
+   <img width="1660" height="775" alt="imagem" src="https://github.com/user-attachments/assets/6816b9e2-4fbd-4f1f-9a7f-0d9133a6accf" />
+</p>
+
+### 20.2 Navigate to http://MACHINE_IP/ in your browser and click on the “Reflected XSS” tab on the navbar; craft a reflected XSS payload that will cause a popup saying “Hello”.
+**Answer:** `ThereIsMoreToXSSThanYouThink`
+<p align="center">   
+   <img width="1009" height="540" alt="imagem" src="https://github.com/user-attachments/assets/22b7ff19-934a-424b-bba1-f824a11eae63" />
+</p>
+
+
+### 20.3 On the same reflective page, craft a reflected XSS payload that will cause a popup with your machines IP address.
+**Answer:** `ReflectiveXss4TheWin`
+<p align="center">   
+   <img width="1502" height="670" alt="imagem" src="https://github.com/user-attachments/assets/5eaf6399-ff25-41d1-b42e-8e8da164bba3" />
+</p>
+
+### 20.4 Now navigate to http://MACHINE_IP/ in your browser and click on the “Stored XSS” tab on the navbar; make an account.
+<p align="center">   
+   <img width="1405" height="379" alt="imagem" src="https://github.com/user-attachments/assets/8196b164-9eea-4a2f-aa51-1783acb981eb" />
+   <img width="1394" height="514" alt="imagem" src="https://github.com/user-attachments/assets/19ce8b96-053e-4659-a955-15fd0f15221f" />
+
+</p>
+
+---
+
+
 ## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
