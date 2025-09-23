@@ -231,9 +231,18 @@ $(cat /etc/passwd)
 <p align="center">   
    <img width="1405" height="379" alt="imagem" src="https://github.com/user-attachments/assets/8196b164-9eea-4a2f-aa51-1783acb981eb" />
    <img width="1394" height="514" alt="imagem" src="https://github.com/user-attachments/assets/19ce8b96-053e-4659-a955-15fd0f15221f" />
-
 </p>
 
+<img width="466" height="185" alt="imagem" src="https://github.com/user-attachments/assets/0be129d6-e136-4f7b-99c8-7174526f1945" />
+<img width="644" height="282" alt="imagem" src="https://github.com/user-attachments/assets/e906a4ee-9e30-4547-b36f-b471e4514e4c" />
+
+### 20.5 On the same page, create an alert popup box appear on the page with your document cookies
+**Answer:** `W3LL_D0N3_LVL2` and `websites_can_be_easily_defaced_with_xss`
+<p align="center"> 
+   <img width="463" height="203" alt="imagem" src="https://github.com/user-attachments/assets/fa07ba29-c246-441a-8c03-2d25a9b1740a" />
+   <img width="449" height="217" alt="imagem" src="https://github.com/user-attachments/assets/75794969-bbc4-44a3-ad6e-91d8c9dcc067" />
+   <img width="1318" height="570" alt="imagem" src="https://github.com/user-attachments/assets/7b4c7c8c-d191-4146-bb04-0da4842f5002" />
+</p>
 ---
 
 
