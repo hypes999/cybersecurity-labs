@@ -182,6 +182,20 @@ $(cat /etc/passwd)
 </p>
 
 ---
+
+### 18.2 Deploy the machine and go to http://MACHINE_IP — Login with the username being noot and the password test1234.
+<p align="center">
+   <img width="775" height="104" alt="imagem" src="https://github.com/user-attachments/assets/45997b6e-940f-4a6e-8417-62aa8a6041dd" />
+</p>
+
+### 18.3 Look at other users notes. What is the flag?
+**Answer:** `flag{fivefourthree}`
+<p align="center">
+   <img width="781" height="94" alt="imagem" src="https://github.com/user-attachments/assets/fecb1a50-560e-4b83-9d85-f38bd7c867b5" />
+</p>
+
+---
+
 ## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
