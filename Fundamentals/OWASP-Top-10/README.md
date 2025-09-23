@@ -275,6 +275,31 @@ B) A Behaviour
 
 ---
 
+### In the browser of the device that you are connected to the VPN with, navigate to http://MACHINE_IP. I will be detailing the steps for Firefox — you may have to research how to inspect cookies in the browser of your choice. You will be greeted with the home page:
+<p align="center"> 
+   <img width="1649" height="757" alt="imagem" src="https://github.com/user-attachments/assets/84569e01-1325-4905-8672-2ca0be54dd65" />
+   <img width="1919" height="717" alt="imagem" src="https://github.com/user-attachments/assets/8e209819-217b-4722-a773-8cf5ba85eb47" />
+</p>
+
+### 1st flag (cookie value)
+**Answer:** `THM{good_old_base64_huh}`
+
+### 2nd flag (admin dashboard)
+**Answer:** `THM{heres_the_admin_flag}`
+
+### 26.1 flag.txt
+**Answer:** `4a69a7ff9fd68`
+
+---
+
+### 29.1 How many characters are in /etc/passwd (use wc -c /etc/passwd to get the answer)
+**Answer:** `1611`
+<p align="center">
+   <img width="1649" height="757" alt="imagem" src="https://github.com/user-attachments/assets/be09aeb0-ce94-47de-979b-36695badfbed" />
+</p>
+
+---
+
 ## Conhecimento 
 
 Como cada tipo de vulnerabilidade funciona: Injections, XSS, Broken Auth, etc.
