@@ -2,11 +2,6 @@
 
 Este repositório documenta a minha jornada prática em cibersegurança.
 
-Estruturado em três áreas:
-- Pentesting (labs ofensivos)
-- Blue Team (defensiva/forense)
-- Projetos aplicados (liga ofensiva + defensiva)e
-
 ---
 
 ## Estrutura
