@@ -19,6 +19,7 @@ Conceitos essenciais de Linux, Windows, Networking e Web.
 ### 3. Pentesting
 Do básico a walkthroughs completos de máquinas CTF.
 
+- [Basic Pentesting](Pentesting/Basic-Pentesting/README.md) 
 
 ### 4. BlueTeam
 Exercícios de defesa, SIEM, análise forense e Wireshark.
