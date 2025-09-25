@@ -6,7 +6,7 @@ Este repositório documenta a minha jornada prática em cibersegurança.
 
 ## Estrutura
 
-### 1. [Fundamentals](Fundamentals/README.md)
+### 1. Fundamentals
 Conceitos essenciais de Linux, Windows, Networking e Web.
 
 - [Introduction to Cyber Security](Fundamentals/Introduction-to-Cyber-Security/README.md)
@@ -16,11 +16,11 @@ Conceitos essenciais de Linux, Windows, Networking e Web.
 - [OWASP Top 10](Fundamentals/OWASP-Top-10/README.md)
 
 
-### 3. [Pentesting](Pentesting/README.md)
+### 3. Pentesting
 Do básico a walkthroughs completos de máquinas CTF.
 
 
-### 4. [BlueTeam](BlueTeam/README.md)
+### 4. BlueTeam
 Exercícios de defesa, SIEM, análise forense e Wireshark.
 
 
